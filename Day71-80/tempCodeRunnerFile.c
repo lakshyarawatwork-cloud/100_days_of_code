@@ -1,0 +1,1 @@
+File: info.txt (Content: Name: Rahul\nAge: 23)
